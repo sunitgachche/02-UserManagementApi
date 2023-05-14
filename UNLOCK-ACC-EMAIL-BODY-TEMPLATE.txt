@@ -1,0 +1,18 @@
+Hi {FNAME}{LNAME},
+<br/>
+
+welcome to AshotIt family, Your Registration is almost Completed.
+please use below details to unlock your account.<br/>
+<br/>
+
+Temporary Password={TEMP-PWD}<br/>
+<br/>
+
+<a herf='http://localhost:4200/unlockAcc?email={Email}'>
+click here to unlock Account
+</a>
+
+<br/>
+<br/>
+Thanks & Regards<br/>
+AshokIt.<br/>
